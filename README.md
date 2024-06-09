@@ -13,4 +13,4 @@ Enhance customer experience and increase sales performance by analyzing sales da
 - Increased customer engagement by 15% through improved marketing campaign efficiency targeting specific customer segments.
 
 ## Conclusion
-- Married women of age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category.
+- Married women of age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation sectors are more likely to buy products from Food, Clothing and Electronics category.
