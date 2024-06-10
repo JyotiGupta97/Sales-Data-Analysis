@@ -1,4 +1,4 @@
-# Sales Analysis
+# Sales Data Analysis
 
 ## Objective
 Enhance customer experience and increase sales performance by analyzing sales data of a company to identify key customer segments and popular product categories.
